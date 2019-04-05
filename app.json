@@ -1,6 +1,6 @@
 {
-  "id": "cad0d354-17df-40aa-8b69-d59d02ce0ecb",
-  "name": "ALProject1",
+  "id": "17d89d7c-230d-4c7d-a1b7-899da906b819",
+  "name": "CodingSession_",
   "publisher": "Default publisher",
   "brief": "",
   "description": "",
@@ -19,6 +19,5 @@
     "from": 50100,
     "to": 50149
   },
-  "runtime": "2.0",
-  "showMyCode": true
+  "runtime": "2.3"
 }
