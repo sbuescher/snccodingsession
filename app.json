@@ -19,5 +19,6 @@
     "from": 50100,
     "to": 50500
   },
-  "runtime": "2.3"
+  "runtime": "2.3",
+  "showMyCode": true
 }
